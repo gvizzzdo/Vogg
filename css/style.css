@@ -5,3 +5,7 @@
 .list-unstyled img {
     width: 4rem;
 }
+
+.navbar {
+    font-family: 'Roboto', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+   }
